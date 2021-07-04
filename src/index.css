@@ -1,0 +1,28 @@
+
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+ h1 {
+  font-family: 'Big Shoulders Stencil Display', cursive;
+    padding: 15px 10px;
+    text-align: center;
+    background: #eee;
+    box-shadow: 0px 0px 10px #aaa;
+    color: black;
+}
+.count{
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  background-color: #222;
+  overflow: hidden;
+}
+.count h2{
+  font-family: 'Big Shoulders Stencil Display', cursive;
+  text-align: center;
+  font-size: 5rem;
+  color: #eee;
+}
